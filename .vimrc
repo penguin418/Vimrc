@@ -32,3 +32,5 @@ set wmnu " 자동완성 강화
 " 편집
 set noautochdir
 set langmap=ㅁㅠㅊㅇㄷㄹㅎㅗㅑㅓㅏㅣㅡㅜㅐㅔㅂㄱㄴㅅㅕㅍㅈㅌㅛㅋ;abcdefghijklmnopqrstuvwxyz
+
+:set fencs=ucs-bom,utf-8,cp949
